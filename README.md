@@ -24,11 +24,14 @@ I'm a graduate from Artificial Intelligence graduate certificate from Durham col
 - 🤔 Continuously learning latest developments in AI
 - 📫 How to reach me:
 
+**Data Analysis:** Python (NumPy, pandas, sklearn, Keras, MLflow, TensorFlow), SQL, Excel
+**Cluster Computing Frameworks:** Apache Spark, AWS Sagemaker
+**Operating Systems:** Linux, Windows
+**Data Visualization:** Tableau, Matplotlib, Seaborn, Plotly
+**Web Development:** Python (Flask), HTML, CSS, JavaScript, Git (Source Control Management)
+**Deployment:** Docker , Heroku, AWS
+**Techniques:** Machine learning, time series analysis, neural networks, advanced statistical modeling and regression, hypothesis testing, clustering, experimental design, and data visualization.
 
-**Languages and Tools:**  Python, C++, Matlab   <br />\
-**Machine Learning:** Linear Regression, Logistic Regression, KNN, Decision trees, Neural networks.\
-**Computer Vision:** Object detection, Object tracking, Face Recognition, VAE, GAN.\
-**Natural Language Processing (NLP):** Information extraction, Sentiment analysis, Machine translation, chatbots
 
  
 </a>
