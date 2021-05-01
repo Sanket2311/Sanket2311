@@ -30,7 +30,7 @@ I'm a graduate from Artificial Intelligence graduate certificate from Durham col
 <br>**Data Visualization:** Tableau, Matplotlib, Seaborn, Plotly
 <br>**Web Development:** Python (Flask), HTML, CSS, JavaScript, Git (Source Control Management)
 <br>**Deployment:** Docker , Heroku, AWS
-<br>**Techniques:** Machine learning, time series analysis, neural networks, advanced statistical modeling and regression, hypothesis testing, clustering, experimental design, and data visualization.
+<br>**Techniques:** Machine learning, time series analysis, neural networks, statistical modeling and regression, hypothesis testing, clustering, experimental design, and data visualization.
 
 
  
