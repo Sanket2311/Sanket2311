@@ -1,7 +1,7 @@
 ### Hello, I'm Sanket Patel 👋
 **Glad to see you here!**
 
-I'm a graduate from Artificial Intelligence graduate certificate from Durham college and bacholrs degree in engineering from VIT University, Vellore who is passionate about using cutting edge technology to solve real world problems with strong understanding of various machine learning algorithms and frameworks backed by strong mathematical foundations. 
+I'm a graduate from Artificial Intelligence graduate certificate from Durham college and bachelors degree in engineering from VIT University, Vellore who is passionate about using cutting edge technology to solve real world problems with strong understanding of various machine learning algorithms and frameworks backed by strong mathematical foundations. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajreddy2020&label=Views&color=blue&style=plastic" alt="dheerajreddy2020" /> </p>
 
