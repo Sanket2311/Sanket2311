@@ -1,6 +1,6 @@
 <img src = "https://github.com/Sanket2311/Sanket2311/blob/main/ML.jpg" alt= "Machine learning image">
 
-### Hello, I'm Sanket Patel 👋
+# Hello, I'm Sanket Patel 👋
 
 **Glad to see you here!**
 
