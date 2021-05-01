@@ -25,8 +25,8 @@ I'm a graduate from Artificial Intelligence graduate certificate from Durham col
 - 📫 How to reach me:
 
 
-[![Linkedin: Sanket Patel](https://img.shields.io/badge/-dheerajreddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/sanketpatel2311/)](https://www.linkedin.com/in/sanketpatel2311/)
-[![GitHub Sanket Patel](https://img.shields.io/github/followers/dheerajreddy2020?label=follow&style=social)](https://github.com/Sanket2311)
+[![Linkedin: Sanket Patel](https://img.shields.io/badge/-Sanket2311-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/sanketpatel2311/)](https://www.linkedin.com/in/sanketpatel2311/)
+[![GitHub Sanket Patel](https://img.shields.io/github/followers/Sanket2311?label=follow&style=social)](https://github.com/Sanket2311)
 
 
 **Data Analysis:** Python (NumPy, pandas, sklearn, Keras, MLflow, TensorFlow), SQL, Excel
