@@ -25,12 +25,12 @@ I'm a graduate from Artificial Intelligence graduate certificate from Durham col
 - 📫 How to reach me:
 
 **Data Analysis:** Python (NumPy, pandas, sklearn, Keras, MLflow, TensorFlow), SQL, Excel
-**Cluster Computing Frameworks:** Apache Spark, AWS Sagemaker
-**Operating Systems:** Linux, Windows
-**Data Visualization:** Tableau, Matplotlib, Seaborn, Plotly
-**Web Development:** Python (Flask), HTML, CSS, JavaScript, Git (Source Control Management)
-**Deployment:** Docker , Heroku, AWS
-**Techniques:** Machine learning, time series analysis, neural networks, advanced statistical modeling and regression, hypothesis testing, clustering, experimental design, and data visualization.
+<br>**Cluster Computing Frameworks:** Apache Spark, AWS Sagemaker
+<br>**Operating Systems:** Linux, Windows
+<br>**Data Visualization:** Tableau, Matplotlib, Seaborn, Plotly
+<br>**Web Development:** Python (Flask), HTML, CSS, JavaScript, Git (Source Control Management)
+<br>**Deployment:** Docker , Heroku, AWS
+<br>**Techniques:** Machine learning, time series analysis, neural networks, advanced statistical modeling and regression, hypothesis testing, clustering, experimental design, and data visualization.
 
 
  
