@@ -1,3 +1,4 @@
+ <img align="center" src="https://github.com/Sanket2311/Sanket2311/blob/main/ML.jpg" alt="Machine Learning Image"/>
 
 # Hello, I'm Sanket Patel 👋
 
